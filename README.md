@@ -1,4 +1,5 @@
 # autoSubmit
+立足燕园，解放清华
 ![Go](https://github.com/yzs981130/autoSubmit/workflows/Go/badge.svg?branch=master)
 
 本项目通过读取环境变量中的学号和密码，依次执行:
